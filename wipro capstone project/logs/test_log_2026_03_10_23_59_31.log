@@ -1,0 +1,15 @@
+2026-03-10 23:59:46,017 - INFO - ===== Test Case 1: Flight Search Page =====
+2026-03-10 23:59:46,017 - INFO - Opening flights page
+2026-03-10 23:59:49,139 - INFO - Entering departure city: BOM
+2026-03-10 23:59:55,557 - INFO - Entering arrival city: DEL
+2026-03-11 00:00:01,866 - INFO - Clicking search button
+2026-03-11 00:00:04,583 - INFO - Flight search completed successfully
+2026-03-11 00:00:19,683 - INFO - ===== Test Case 2: Flight Results Page =====
+2026-03-11 00:00:37,571 - INFO - Selecting first flight from results
+2026-03-11 00:01:05,755 - INFO - ===== Test Case 3: Booking Page =====
+2026-03-11 00:01:39,889 - INFO - Filling guest details
+2026-03-11 00:01:51,101 - INFO - Confirming booking
+2026-03-11 00:02:07,412 - INFO - Booking successful
+2026-03-11 00:02:23,825 - INFO - ===== Test Case 4: Invoice Page =====
+2026-03-11 00:03:19,664 - INFO - Downloading invoice
+2026-03-11 00:03:30,699 - INFO - Invoice downloaded successfully
